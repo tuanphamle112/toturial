@@ -4,6 +4,6 @@ hiiiiiiiiiiiiiiiiiiiiiiiiii22222222222222222
 hhhhhhhhhhhiiiiiiiiiiiiiiiiiiiiiiiii33333333333333333333
 
 commit: Lưu lại trạng thái của index
-
+th đã sửa
 pull: Lấy nội dung của remote repository
 
